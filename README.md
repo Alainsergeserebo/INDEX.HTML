@@ -1,1 +1,1 @@
-# INDEX.HTML
+/serebo serge.htm/index.htmlserge.htm/images
